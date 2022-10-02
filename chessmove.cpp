@@ -1,5 +1,5 @@
 #include <iostream>
-#include "chessmove.h"
+#include "chessmove.hpp"
 using namespace std;
 
 int pawnMove(int board[][8], int row, int col, int player)

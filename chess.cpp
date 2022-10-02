@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include "chessmove.h"
+#include "chessmove.hpp"
 #include "chessmove.cpp"
 using namespace std;
 
